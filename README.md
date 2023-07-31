@@ -29,4 +29,5 @@
 - Plotted training history on the graph.
 - Made predictions/inference on sample images.
 
+  [The Project Report](https://github.com/ukishore33/Classifying-Images-based-on-Deep-learning-CNN-Algorithm/blob/main/Pepper%20Bell%20Disease%20File.ipynb)
   [The Project Report](https://github.com/ukishore33/Classifying-Images-based-on-Deep-learning-CNN-Algorithm/blob/main/Pepper%20Bell%20Leaf%20Classification%20Report.docx)

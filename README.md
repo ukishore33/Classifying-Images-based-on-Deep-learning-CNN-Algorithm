@@ -25,7 +25,8 @@
 ## Model Building:
 
 - We trained Convolutional Neural Network in Tensorflow using bell_pepper leaf images. The goal of this model would be to classify these images either healthy or Bacterial spot disease.
-  [The Project Report](https://github.com/ukishore33/Classifying-Images-based-on-Deep-learning-CNN-Algorithm/blob/main/Pepper%20Bell%20Leaf%20Classification%20Report.docx)
 - We built a trained CNN model.
 - Plotted training history on the graph.
 - Made predictions/inference on sample images.
+
+  [The Project Report](https://github.com/ukishore33/Classifying-Images-based-on-Deep-learning-CNN-Algorithm/blob/main/Pepper%20Bell%20Leaf%20Classification%20Report.docx)
